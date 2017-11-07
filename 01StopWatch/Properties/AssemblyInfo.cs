@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSharpIntermediate")]
+[assembly: AssemblyTitle("01StopWatch")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("CSharpIntermediate")]
+[assembly: AssemblyProduct("01StopWatch")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0c142056-507a-4bb2-a7b8-b76d954a8139")]
+[assembly: Guid("6c0e6a64-ba48-48d5-94ac-7fd89a54dbe7")]
 
 // Version information for an assembly consists of the following four values:
 //
