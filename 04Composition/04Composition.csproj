@@ -7,8 +7,8 @@
     <ProjectGuid>{F481DBE8-D4DF-4FD3-98B0-DEDD84D59283}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04Composition</RootNamespace>
-    <AssemblyName>04Composition</AssemblyName>
+    <RootNamespace>Composition</RootNamespace>
+    <AssemblyName>Composition</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
