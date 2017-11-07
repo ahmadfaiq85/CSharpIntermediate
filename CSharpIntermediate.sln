@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01StopWatch", "01StopWatch\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02StackOverFlowPost", "02StackOverFlowPost\02StackOverFlowPost.csproj", "{2D2B404F-3531-4A5C-8FED-1A8DE66DEE60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Inheritance", "03Inheritance\03Inheritance.csproj", "{FEB03E9E-4883-43D3-B74C-E19A4BEBE33B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2D2B404F-3531-4A5C-8FED-1A8DE66DEE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D2B404F-3531-4A5C-8FED-1A8DE66DEE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D2B404F-3531-4A5C-8FED-1A8DE66DEE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB03E9E-4883-43D3-B74C-E19A4BEBE33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB03E9E-4883-43D3-B74C-E19A4BEBE33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB03E9E-4883-43D3-B74C-E19A4BEBE33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB03E9E-4883-43D3-B74C-E19A4BEBE33B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
